@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" height="100"/>
-</div>
-
 <h1 align="center">🚀 Welcome to Rohit Kumar's World of Code, Creativity & AI ✨</h1>
 
 <p align="center">

@@ -1,7 +1,7 @@
  # Rohitsdr-
 Aspiring software developer passionate about building efficient, user-focused applications using modern technologies
 <div align="center">
-  <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" height="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
 <h1 align="center">✨ Welcome to Rohit kumar World of Innovation ✨</h1>

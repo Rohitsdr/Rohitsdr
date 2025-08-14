@@ -1,66 +1,67 @@
-<h1 align="center">🚀 Welcome to Rohit Kumar's World of Code, Creativity & AI ✨</h1>
+ # Rohitsdr-
+Aspiring software developer passionate about building efficient, user-focused applications using modern technologies
+<div align="center">
+  <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" height="100"/>
+</div>
+
+<h1 align="center">✨ Welcome to Rohit kumar World of Innovation ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00FFAA&center=true&vCenter=true&width=700&lines=Android+%26+AI+Developer;Postman+%7C+RestAssured+%7C+SOAPUI+Pro;Mock+APIs+%26+Load+Testing+Wizard;Creating+Smarter+Solutions+Every+Day!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+Developer+%7C+ML+Enthusiast+%7C+Innovator;Solving+problems+with+Generative+AI;Passionate+about+NLP+and+CV;Building+the+Future%2C+one+model+at+a+time!" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/uses-brains.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-caffeine.svg" />
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
+  <img src="https://forthebadge.com/images/badges/made-with-python.svg" alt="Made with Python" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
 </div>
 
 ---
 
 ## 🌟 About Me  
-> “I turn ideas into digital realities with code, APIs, and AI.”
+> "Dreamer, Builder, and Problem Solver with a passion for creating intelligent systems!"
 
-### 👨‍💻 Who Am I?
-- 🎯 Android Developer using **Kotlin** to build responsive, modern apps.  
-- ⚙️ Backend/Testing Wizard: Crafting and testing **Mock APIs** with **Postman**, **RestAssured**, and **JSON Server**.  
-- 🧠 AI Innovator: Passionate about **chatbots**, **sentiment analysis**, and **mental health support systems** using **ML/NLP**.  
-- 📊 Data Strategist: Managing player data for sports franchises (IPL-style), with advanced filtering and automation.
+### 🚀 What I Do:
+- 🤖 Generative AI Explorer: Innovating with LLMs and creative AI solutions.  
+- 📊 Data Science Enthusiast: Turning raw data into actionable insights.  
+- 💻 Developer at Heart: Proficient in Python, C++, NLP, and CV.  
+- 🎯 Projects That Matter: Focused on solving real-world problems using ML & AI.  
 
----
-
-## 🔍 Currently Working On
-- 🔄 Real-world **Railway PNR Enquiry** system using REST APIs.  
-- 🗳️ Election data management & load-tested mock API using Postman.  
-- 🧠 AI mental health chatbot using sentiment classification.  
-- 📉 Financial Calculator via **SOAPUI** & performance testing.  
-- ⚒️ Load testing, script automation, and continuous improvement in QA.
+### 🌱 Currently Exploring:
+- 📚 Deep Dive into Transformer Models.  
+- 🤝 Collaborations in AI-Powered Applications.  
+- 🔬 Researching cutting-edge Computer Vision Techniques.  
 
 ---
 
-## 🧰 Tech Toolbox  
+## 🛠 Tech Stack  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,python,cpp,postman,docker,git,mysql,html,css,js" /><br>
-  <img src="https://img.shields.io/badge/Tools%20%26%20Frameworks-RestAssured%20%7C%20SOAPUI%20%7C%20JSONServer%20%7C%20Postman-orange?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,html,css,js,docker,mongodb,git" alt="Tech Stack" /><br>
+  <img src="https://img.shields.io/badge/Tools%20I%20Use-Streamlit%20%7C%20Django%20%7C%20Flask-brightgreen?style=flat" />
 </div>
 
 ---
 
-## 📈 GitHub Stats  
+## 🔥 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4for7apy&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=4for7apy&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4for7apy&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=4for7apy&show_icons=true&theme=highcontrast&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=4for7apy&theme=highcontrast" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4for7apy&layout=compact&theme=highcontrast" alt="Top Languages" />
 </div>
 
 ---
 
-## 💼 Highlight Projects  
-### 🚧 Real & Impactful
-- 🚉 **Railway PNR System** – Built with `RestAssured` and JSON array validations.  
-- 📊 **Election Mock API** – Advanced CRUD & load testing with Postman.  
-- 🧠 **Mental Health Chatbot** – NLP-powered AI assistant for emotional wellbeing.  
-- 📈 **Financial Calculator** – SOAP-based logic with assertion & automation in `SOAPUI`.
+## 💼 Projects  
+### 🌟 Featured  
+- 🧠 [Real-Time Sign Language Detection](#): Bringing inclusivity through AI for deaf and mute individuals.  
+- 🤖 [AI Chatbots](#): Enhancing conversations with intelligent, multilingual, and voice-enabled bots.  
+- 🎨 [Generative Art with AI](#): Empowering creative expression through neural networks.  
 
 ---
 
-## 📬 Let's Connect!  
+## 📫 Let's Connect  
 <div align="center">
   <a href="https://www.linkedin.com/in/rohit-kumar82/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rohitsdr8299@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -75,14 +76,14 @@
 
 ---
 
-## 😄 Fun Facts
-- 🔐 I automate chatbot testing and work on **cyber-safe conversations**.  
-- 🎮 I code, game, debug, repeat.  
-- 🌱 Always learning something new in the AI/Android world.
+## 🎮 Fun Facts  
+- 🛠 Building a cyber-secure future for AI chatbots.  
+- 🎯 Passionate gamer, coder, and tech explorer.  
+- 🌏 Inspired by the possibilities of tech shaping humanity.  
 
 ---
 
 <div align="center">
-  <h3>✨ Let’s Collaborate, Code & Create the Future! ✨</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Collab+on+AI+or+Android+Apps+%F0%9F%94%8A;Let's+Automate+Testing+%26+Debugging+Together%F0%9F%9B%A0%EF%B8%8F;Ping+me+anytime!+%F0%9F%93%A9" />
+  <h3>🚀 Let's Build the Future Together!</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Collaboration+is+Key+%F0%9F%91%8C;Let's+Bring+Ideas+to+Life+%F0%9F%94%A5;Reach+out+anytime!+%F0%9F%93%A9" />
 </div>

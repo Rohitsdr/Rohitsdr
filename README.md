@@ -71,7 +71,7 @@ Aspiring software developer passionate about building efficient, user-focused ap
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/1AgViWw1AYKuJv7eLN/giphy.gif" width="600" height="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" width="900">
 </div>
 
 ---
